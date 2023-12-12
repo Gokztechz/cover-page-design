@@ -1,6 +1,6 @@
 # cover-page-design
 ## AIM:
-To develop a website to display the cover page design of a book
+Develop a website to display the cover page design of a book
 
 ## Design Steps:
 ## Step 1:
@@ -8,17 +8,17 @@ Create a Django Admin Project.
 ## Step 2:
 Create an app in the Django interface.
 ## Step 3:
-Create a folder named 'static' in the app folder.
+Create a folder named as 'static' in the app folder.
 ## Step 4:
 Create a new HTML file in the static folder.
 ## Step 5:
-Write the HTMl code with relevant CSS properties.
+Write HTML code with relevant CSS properties.
 ## Step 6:
 Choose the appropriate style and color scheme.
 ## step 7:
 Insert the images in their appropriate place.
 ## step 8:
-Publish the website in the localHost
+Publish your website in LocalHost
 
 ## Code:
 ```<!DOCTYPE html>
