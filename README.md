@@ -139,8 +139,9 @@ Publish your website in LocalHost
 ```
 
 ## Output:
-![output](https://github.com/RAVENPRAVIN/cover-page-design/assets/146820534/70a6bbbd-0722-48a9-baae-51d0e8e7512e)
+![output](https://github.com/RAVENPRAVIN/cover-page-design/assets/146820534/c546727e-caf4-4c47-a365-42c2b0a641e4)
+
 
 
 ## Result:
-The program book cover page has been excuted sucessfully
+The program book cover page has been executed successfully
