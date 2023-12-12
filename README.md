@@ -139,7 +139,8 @@ Publish the website in the localHost
 ```
 
 ## Output:
-![output](book%20cover.jpg)
+![output](https://github.com/RAVENPRAVIN/cover-page-design/assets/146820534/70a6bbbd-0722-48a9-baae-51d0e8e7512e)
+
 
 ## Result:
 The program book cover page has been excuted sucessfully
