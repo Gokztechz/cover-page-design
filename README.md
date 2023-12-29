@@ -125,7 +125,7 @@ Publish your website in LocalHost
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>PRAVIN KUMAR</b></p>
+               <p><b>R.GOKUL SHARAN</b></p>
             </div>
             <div class="pub">
                 SEC
